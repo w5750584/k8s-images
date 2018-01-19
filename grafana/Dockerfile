@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/heapster_grafana:v2.6.0-2
+FROM gcr.io/google_containers/heapster-grafana-amd64:v4.4.3
 MAINTAINER xiaofeng.di <w5750584@gmail.com>
